@@ -1,5 +1,5 @@
 const router = require("express").Router()
 
 router.get("/", (req,res)=>{
-    res.send("new home page")
+    res.send("Home page is now with feature3")
 })
