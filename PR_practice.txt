@@ -1,0 +1,17 @@
+feature : WhatsApp number notification:/ID:102
+
+WHAT :
+Along with email based notification what's app number as a means of notification is added.
+
+WHY :
+since what's is mostly used and shows notifications on notification bar of phone instantly.
+
+
+Title: Allow customer notification via WhatsApp/FEAPP-420
+
+Decription:
+Customers have been requesting the ability to get
+notified about product updates via their WhatsApp number.
+
+This mode of notification is optional, but if specified, should cause
+notifications to go out both on their emails as well as WhatsApp numbers.

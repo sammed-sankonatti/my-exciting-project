@@ -1,0 +1,34 @@
+These are some of the things to expect as review comments from your teammates
+when they are reviewing your PRs:
+
+Coding style: 
+Grammar: 
+Programming best practices:
+
+Use of proper tone: Use “please”, “could you”, “would you”, etc. and be
+as polite as possible.
+For example, “Can you please reconsider splitting
+this function into two?”
+
+
+
+
+Things to keep in mind while raising a PR:
+
+WHAT the PR changes This is usually the PR description.
+WHY are the changes required This follows the WHAT block in the PR description and describes WHY we would like this change
+Any notes that changes workflow Sometimes, certain changes might alter certain aspects of the development.
+Raise multiple small PRs It is highly recommended to raise small, but numerous PRs when working on a feature or bug, if
+
+
+This is a good template for raising PRs:
+PR Title: (feat|bug|hot|chore)/<JIRA story ID>: <Short concise title>
+PR Description:
+WHAT:
+A short paragraph of what changes are introduced in this PR.
+WHY:
+A short description of why these changes are needed.
+Notes:
+Any detail that needs to be highlighted goes here.
+PR Reviewers:
+Add your teammates, including the lead.
