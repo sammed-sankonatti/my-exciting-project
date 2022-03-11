@@ -1,6 +1,8 @@
 const express = require("express")
 const app = express()
 
-app.listen(5000, ()=>{
+const PORT = process.env.PORT
+
+app.listen(PORT, ()=>{
     console.log("server created on 5000");
 })
